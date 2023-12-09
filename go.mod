@@ -1,4 +1,4 @@
-module github.com/santosh1608/project-rss
+module github.com/santosh1608/project-rss-feed
 
 go 1.21.4
 
